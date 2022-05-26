@@ -1,6 +1,6 @@
 # Olá! Sou o Brunnno Bernardo
 
-- 🔭 Atualmente esstou desempregado mas procurando uma colocação no mercado de front-end
+- 🔭 Atualmente estou desempregado mas procurando uma colocação no mercado de front-end
 - 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã
 - 🌱 e também estudando HTML5 e CSS3 com as aulas do professor Gustavo Guanabara
 
