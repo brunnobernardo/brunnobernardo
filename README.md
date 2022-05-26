@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá! Sou o Brunnno Bernardo
 
-<!--
-**brunnobernardo/brunnobernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente esstou desempregado mas procurando uma colocação no mercado de front-end
+- 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã
+- 🌱 e também estudando HTML5 e CSS3 com as aulas do professor Gustavo Guanabara
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="httpsem"github.com/brunnobernardo">
+    <img height"180em" src="https://github-readme-stats.vercel.app/api?username=brunnobernardo&theme=gotham&show_icons=true&include_all_cinnits_private=true"/>
+     <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobernardo&layout=compact&langs_conut=16&theme=gotham"/>
+</div>
+                                                                                                   
+##
+                                                                                                   
+ <div>
+ <a href="https://www.linkedin.com/in/brunno-bernardo-b0a502204/" target="_blank"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+ </div>
