@@ -1,8 +1,8 @@
 # Olá! Sou o Brunnno Bernardo
 
-- 🔭 Atualmente trabalho como assistente de vendas, mas estou procurando uma colocação no mercado de front-end
-- 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã e estudando HTML5 e CSS3 com as aulas do professor <a href="https://github.com/gustavoguanabara" target="_blnak">Gustavo Guanabara </a>
-
+- 🔭 Atualmente trabalho como auxiliar administrativo, mas estou procurando uma colocação no mercado de front-end
+- 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã e aprofundando os estudos na área de desenvolvimento.
+- 
 <div>
   <a href="httpsem"github.com/brunnobernardo">
     <img height"180em" src="https://github-readme-stats.vercel.app/api?username=brunnobernardo&theme=gotham&show_icons=true&include_all_cinnits_private=true"/>
