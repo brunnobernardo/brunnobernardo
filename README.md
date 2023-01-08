@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho como auxiliar administrativo, mas estou procurando uma colocação no mercado de front-end
 - 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã e aprofundando os estudos na área de desenvolvimento.
-- 
 <div>
   <a href="httpsem"github.com/brunnobernardo">
     <img height"180em" src="https://github-readme-stats.vercel.app/api?username=brunnobernardo&theme=gotham&show_icons=true&include_all_cinnits_private=true"/>
