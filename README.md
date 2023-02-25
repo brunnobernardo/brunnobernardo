@@ -4,6 +4,19 @@
 - 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã, tenho conhecimento em front-end(HTML5, CSS3 e JS)
 - 🌱 Nos últimos tempos estou fazendo a formação de flutter com a <a href="https://www.alura.com.br/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA5UlqYtj57NVRgdBrvnzNR-rcZHhYDhePeiI57RFD3mFNIPbxJLnBAaApoVEALw_wcB" target= blank>Alura</a>
 
+<div style="display: inline_block"> <br>
+    <img align="center" alt="Brunno-Js" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Brunno-HTML" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Brunno-CSS" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Brunno-dart" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+</div> 
+
+##
+
 <div style="display: inline_block">
   <a href="httpsem"github.com/brunnobernardo">
     <img height"180em" src="https://github-readme-stats.vercel.app/api?username=brunnobernardo&theme=gotham&show_icons=true&include_all_cinnits_private=true"/>
