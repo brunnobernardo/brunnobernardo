@@ -4,7 +4,7 @@
 - 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã, tenho conhecimento em front-end(HTML5, CSS3 e JS)
 - 🌱 Nos últimos tempos estou fazendo a formação de flutter com a <a href="https://www.alura.com.br/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA5UlqYtj57NVRgdBrvnzNR-rcZHhYDhePeiI57RFD3mFNIPbxJLnBAaApoVEALw_wcB" target= blank>Alura</a>
 
-<div>
+<div style="display: inline_block">
   <a href="httpsem"github.com/brunnobernardo">
     <img height"180em" src="https://github-readme-stats.vercel.app/api?username=brunnobernardo&theme=gotham&show_icons=true&include_all_cinnits_private=true"/>
      <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobernardo&layout=compact&langs_conut=16&theme=gotham"/>
