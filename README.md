@@ -19,8 +19,8 @@
 
 <div style="display: inline_block">
   <a href="httpsem"github.com/brunnobernardo">
-    <img height"180em" src="https://github-readme-stats.vercel.app/api?username=brunnobernardo&theme=gotham&show_icons=true&include_all_cinnits_private=true"/>
-     <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobernardo&layout=compact&langs_conut=16&theme=gotham"/>
+    <img height"180em" width = "500em" src="https://github-readme-stats.vercel.app/api?username=brunnobernardo&theme=gotham&show_icons=true&include_all_cinnits_private=true"/>
+     <img height"180em" width = "350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobernardo&layout=compact&langs_conut=16&theme=gotham"/>
 </div>
                                                                                                    
 ##
