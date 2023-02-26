@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como auxiliar administrativo, mas estou procurando uma colocação no mercado mobile(Flutter)
 - 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã e tenho conhecimento em front-end(HTML5, CSS3 e JS)
-- 🌱 Nos últimos tempos estou fazendo a formação de flutter com a <a href="https://www.alura.com.br/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA5UlqYtj57NVRgdBrvnzNR-rcZHhYDhePeiI57RFD3mFNIPbxJLnBAaApoVEALw_wcB" target= blank>Alura</a>
+- 🌱 Nos últimos tempos estou aprofundando meus estudos na área mobile, fazendo a formação de flutter com a <a href="https://www.alura.com.br/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA5UlqYtj57NVRgdBrvnzNR-rcZHhYDhePeiI57RFD3mFNIPbxJLnBAaApoVEALw_wcB" target= blank>Alura</a>
 
 <div style="display: inline_block"> <br>
     <img align="center" alt="Brunno-Js" height="30" width="40"
