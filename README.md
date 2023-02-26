@@ -1,4 +1,4 @@
-# Olá! Sou o Brunnno Bernardo
+# Olá! Sou Brunnno Bernardo
 
 - 🔭 Atualmente trabalho como auxiliar administrativo, mas estou procurando uma colocação no mercado mobile(Flutter)
 - 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã, tenho conhecimento em front-end(HTML5, CSS3 e JS)
