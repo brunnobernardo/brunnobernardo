@@ -1,8 +1,8 @@
-# Olá! Sou Brunnno Bernardo
+# Hi, I´m Brunno Bernardo
 
-- 🔭 Atualmente trabalho como auxiliar administrativo, mas estou procurando uma colocação no mercado mobile(Flutter)
-- 🌱 Estou cursando Sistemas de Informação na universidade USJT-Butantã e tenho conhecimento em front-end(HTML5, CSS3 e JS)
-- 🌱 Nos últimos tempos estou aprofundando meus estudos na área mobile, fazendo a formação de flutter com a <a href="https://www.alura.com.br/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA5UlqYtj57NVRgdBrvnzNR-rcZHhYDhePeiI57RFD3mFNIPbxJLnBAaApoVEALw_wcB" target= blank>Alura</a>
+- 🔭 I currently work as an administrative assitant, but i am looking for a placement in the mobile market(Flutter)
+- 🌱 I´m studing information sytems at the university USJT-Butantã and I have knowledge in Front-end(HTML5, CSS3 and JS)
+- 🌱 Lately i´m deeping my studies in the mobile area, doing a flutter training with <a href="https://www.alura.com.br/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA5UlqYtj57NVRgdBrvnzNR-rcZHhYDhePeiI57RFD3mFNIPbxJLnBAaApoVEALw_wcB" target= blank>Alura</a>
 
 <div style="display: inline_block"> <br>
     <img align="center" alt="Brunno-Js" height="30" width="40"
