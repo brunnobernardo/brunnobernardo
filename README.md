@@ -1,8 +1,7 @@
 # Hi, I´m Brunno Bernardo
 
-- 🔭 I currently work as an administrative assitant, but i am looking for a placement in the mobile market(Flutter)
-- 🌱 I´m studing information sytems at the university USJT-Butantã and I have knowledge in Front-end(HTML5, CSS3 and JS)
-- 🌱 Lately i´m deeping my studies in the mobile area, doing a flutter training with <a href="https://www.alura.com.br/?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA5UlqYtj57NVRgdBrvnzNR-rcZHhYDhePeiI57RFD3mFNIPbxJLnBAaApoVEALw_wcB" target= blank>Alura</a>
+- 🔭 I currently work as an Process Improvement Analyst, but i am looking for a placement in the t.i market
+- 🌱 I have a strong foundation in front-end development, including HTML5, CSS3, Bootstrap, and JavaScript, with practical application in an informational website project for a dental clinic. Additionally, I have knowledge in programming and Data Science, with skills in Python, Power BI, and SQL, which allow me to conduct strategic data analysis. I also have advanced proficiency in Excel, including VBA, enabling me to automate processes and create dynamic solutions in spreadsheets.
 
 <div style="display: inline_block"> <br>
     <img align="center" alt="Brunno-Js" height="30" width="40"
